@@ -19,40 +19,40 @@ Prefer an editor, `git push` and a progress badge? Use the starters instead; the
 
 | Chapter | Open |
 | --- | --- |
-| 11 Counting steps: how cost grows with input | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch11_counting_steps.ipynb) · [notebook](dsa/ch11_counting_steps.ipynb) |
-| 12 Memory as a cost | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch12_memory_cost.ipynb) · [notebook](dsa/ch12_memory_cost.ipynb) |
-| 13 Timing real code | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch13_timing.ipynb) · [notebook](dsa/ch13_timing.ipynb) |
-| 21 Arrays and dynamic arrays | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch21_arrays.ipynb) · [notebook](dsa/ch21_arrays.ipynb) |
-| 22 Searching sorted data | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch22_sorted_search.ipynb) · [notebook](dsa/ch22_sorted_search.ipynb) |
-| 23 Linked lists | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch23_linked_lists.ipynb) · [notebook](dsa/ch23_linked_lists.ipynb) |
-| 24 Stacks and queues | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch24_stacks_queues.ipynb) · [notebook](dsa/ch24_stacks_queues.ipynb) |
-| 25 Strings | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch25_strings.ipynb) · [notebook](dsa/ch25_strings.ipynb) |
-| 26 Two pointers and intervals | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch26_two_pointers.ipynb) · [notebook](dsa/ch26_two_pointers.ipynb) |
-| 27 Grids and matrices | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch27_grids.ipynb) · [notebook](dsa/ch27_grids.ipynb) |
-| 31 Simple sorts: bubble, selection and insertion | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch31_simple_sorts.ipynb) · [notebook](dsa/ch31_simple_sorts.ipynb) |
-| 32 Divide and conquer: mergesort, quicksort and quickselect | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch32_divide_conquer.ipynb) · [notebook](dsa/ch32_divide_conquer.ipynb) |
-| 33 Linear-time sorts | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch33_linear_sorts.ipynb) · [notebook](dsa/ch33_linear_sorts.ipynb) |
-| 41 Hash tables | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch41_hash_tables.ipynb) · [notebook](dsa/ch41_hash_tables.ipynb) |
-| 42 Hash functions | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch42_hash_functions.ipynb) · [notebook](dsa/ch42_hash_functions.ipynb) |
-| 43 Rolling hashes and text search | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch43_text_search.ipynb) · [notebook](dsa/ch43_text_search.ipynb) |
-| 51 Binary search trees | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch51_binary_search_trees.ipynb) · [notebook](dsa/ch51_binary_search_trees.ipynb) |
-| 52 Heaps and priority queues | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch52_heaps.ipynb) · [notebook](dsa/ch52_heaps.ipynb) |
-| 53 Tries | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch53_tries.ipynb) · [notebook](dsa/ch53_tries.ipynb) |
-| 54 Self-balancing trees: red-black trees and treaps | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch54_balanced_trees.ipynb) · [notebook](dsa/ch54_balanced_trees.ipynb) |
-| 55 B-trees and block storage | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch55_btrees.ipynb) · [notebook](dsa/ch55_btrees.ipynb) |
-| 56 Binary trees | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch56_binary_trees.ipynb) · [notebook](dsa/ch56_binary_trees.ipynb) |
-| 61 Graphs: representation and traversal | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch61_graphs.ipynb) · [notebook](dsa/ch61_graphs.ipynb) |
-| 62 Shortest paths and ordering | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch62_paths_order.ipynb) · [notebook](dsa/ch62_paths_order.ipynb) |
-| 63 Union-find and spanning trees | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch63_union_find.ipynb) · [notebook](dsa/ch63_union_find.ipynb) |
-| 64 Grid and implicit graphs | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch64_implicit_graphs.ipynb) · [notebook](dsa/ch64_implicit_graphs.ipynb) |
-| 71 Recursion | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch71_recursion.ipynb) · [notebook](dsa/ch71_recursion.ipynb) |
-| 72 Dynamic programming | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch72_dynamic_programming.ipynb) · [notebook](dsa/ch72_dynamic_programming.ipynb) |
-| 73 Greedy choices and problem transforms | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch73_greedy_transforms.ipynb) · [notebook](dsa/ch73_greedy_transforms.ipynb) |
-| 74 Randomized algorithms | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch74_randomized.ipynb) · [notebook](dsa/ch74_randomized.ipynb) |
-| 75 Backtracking | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch75_backtracking.ipynb) · [notebook](dsa/ch75_backtracking.ipynb) |
-| 81 Caching and eviction | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch81_caching.ipynb) · [notebook](dsa/ch81_caching.ipynb) |
-| 82 External memory: sorting data bigger than RAM | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch82_external_sort.ipynb) · [notebook](dsa/ch82_external_sort.ipynb) |
-| 83 Compact sets: bit vectors and Bloom filters | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch83_compact_sets.ipynb) · [notebook](dsa/ch83_compact_sets.ipynb) |
+| 1.1 Counting steps: how cost grows with input | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch1_1_counting_steps.ipynb) · [notebook](dsa/ch1_1_counting_steps.ipynb) |
+| 1.2 Memory as a cost | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch1_2_memory_cost.ipynb) · [notebook](dsa/ch1_2_memory_cost.ipynb) |
+| 1.3 Timing real code | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch1_3_timing.ipynb) · [notebook](dsa/ch1_3_timing.ipynb) |
+| 2.1 Arrays and dynamic arrays | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch2_1_arrays.ipynb) · [notebook](dsa/ch2_1_arrays.ipynb) |
+| 2.2 Searching sorted data | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch2_2_sorted_search.ipynb) · [notebook](dsa/ch2_2_sorted_search.ipynb) |
+| 2.3 Linked lists | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch2_3_linked_lists.ipynb) · [notebook](dsa/ch2_3_linked_lists.ipynb) |
+| 2.4 Stacks and queues | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch2_4_stacks_queues.ipynb) · [notebook](dsa/ch2_4_stacks_queues.ipynb) |
+| 2.5 Strings | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch2_5_strings.ipynb) · [notebook](dsa/ch2_5_strings.ipynb) |
+| 2.6 Two pointers and intervals | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch2_6_two_pointers.ipynb) · [notebook](dsa/ch2_6_two_pointers.ipynb) |
+| 2.7 Grids and matrices | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch2_7_grids.ipynb) · [notebook](dsa/ch2_7_grids.ipynb) |
+| 3.1 Simple sorts: bubble, selection and insertion | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch3_1_simple_sorts.ipynb) · [notebook](dsa/ch3_1_simple_sorts.ipynb) |
+| 3.2 Divide and conquer: mergesort, quicksort and quickselect | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch3_2_divide_conquer.ipynb) · [notebook](dsa/ch3_2_divide_conquer.ipynb) |
+| 3.3 Linear-time sorts | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch3_3_linear_sorts.ipynb) · [notebook](dsa/ch3_3_linear_sorts.ipynb) |
+| 4.1 Hash tables | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch4_1_hash_tables.ipynb) · [notebook](dsa/ch4_1_hash_tables.ipynb) |
+| 4.2 Hash functions | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch4_2_hash_functions.ipynb) · [notebook](dsa/ch4_2_hash_functions.ipynb) |
+| 4.3 Rolling hashes and text search | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch4_3_text_search.ipynb) · [notebook](dsa/ch4_3_text_search.ipynb) |
+| 5.1 Binary search trees | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch5_1_binary_search_trees.ipynb) · [notebook](dsa/ch5_1_binary_search_trees.ipynb) |
+| 5.2 Heaps and priority queues | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch5_2_heaps.ipynb) · [notebook](dsa/ch5_2_heaps.ipynb) |
+| 5.3 Tries | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch5_3_tries.ipynb) · [notebook](dsa/ch5_3_tries.ipynb) |
+| 5.4 Self-balancing trees: red-black trees and treaps | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch5_4_balanced_trees.ipynb) · [notebook](dsa/ch5_4_balanced_trees.ipynb) |
+| 5.5 B-trees and block storage | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch5_5_btrees.ipynb) · [notebook](dsa/ch5_5_btrees.ipynb) |
+| 5.6 Binary trees | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch5_6_binary_trees.ipynb) · [notebook](dsa/ch5_6_binary_trees.ipynb) |
+| 6.1 Graphs: representation and traversal | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch6_1_graphs.ipynb) · [notebook](dsa/ch6_1_graphs.ipynb) |
+| 6.2 Shortest paths and ordering | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch6_2_paths_order.ipynb) · [notebook](dsa/ch6_2_paths_order.ipynb) |
+| 6.3 Union-find and spanning trees | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch6_3_union_find.ipynb) · [notebook](dsa/ch6_3_union_find.ipynb) |
+| 6.4 Grid and implicit graphs | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch6_4_implicit_graphs.ipynb) · [notebook](dsa/ch6_4_implicit_graphs.ipynb) |
+| 7.1 Recursion | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch7_1_recursion.ipynb) · [notebook](dsa/ch7_1_recursion.ipynb) |
+| 7.2 Dynamic programming | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch7_2_dynamic_programming.ipynb) · [notebook](dsa/ch7_2_dynamic_programming.ipynb) |
+| 7.3 Greedy choices and problem transforms | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch7_3_greedy_transforms.ipynb) · [notebook](dsa/ch7_3_greedy_transforms.ipynb) |
+| 7.4 Randomized algorithms | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch7_4_randomized.ipynb) · [notebook](dsa/ch7_4_randomized.ipynb) |
+| 7.5 Backtracking | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch7_5_backtracking.ipynb) · [notebook](dsa/ch7_5_backtracking.ipynb) |
+| 8.1 Caching and eviction | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch8_1_caching.ipynb) · [notebook](dsa/ch8_1_caching.ipynb) |
+| 8.2 External memory: sorting data bigger than RAM | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch8_2_external_sort.ipynb) · [notebook](dsa/ch8_2_external_sort.ipynb) |
+| 8.3 Compact sets: bit vectors and Bloom filters | [Colab](https://colab.research.google.com/github/bloomcode/codelab/blob/main/dsa/ch8_3_compact_sets.ipynb) · [notebook](dsa/ch8_3_compact_sets.ipynb) |
 
 ## Competitive programming
 
